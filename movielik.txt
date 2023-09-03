@@ -1,0 +1,42 @@
+ // {
+    //   name: "Joker",
+    //   year: "2020",
+    //   rating: 5,
+    //   img: "https://c4.wallpaperflare.com/wallpaper/343/846/438/joker-2019-movie-joker-joaquin-phoenix-men-makeup-hd-wallpaper-preview.jpg",
+    // },
+    // {
+    //   name: "Avengers Endgame",
+    //   year: "2019",
+    //   rating: 5,
+    //   img: "https://c4.wallpaperflare.com/wallpaper/361/823/829/avengers-endgame-iron-man-robert-downey-jr-captain-america-chris-evans-hd-wallpaper-preview.jpg",
+    // },
+    // {
+    //   name: "Star Wars",
+    //   year: "2019",
+    //   rating: 4.5,
+    //   img: "https://c4.wallpaperflare.com/wallpaper/153/860/948/movie-poster-star-wars-star-wars-the-rise-of-skywalker-2019-year-movies-hd-wallpaper-preview.jpg",
+    // },
+    // {
+    //   name: "Black Widow",
+    //   year: "2019",
+    //   rating: 3,
+    //   img: "https://c4.wallpaperflare.com/wallpaper/736/820/15/scarlett-johansson-women-black-widow-mcu-marvel-comics-hd-wallpaper-preview.jpg",
+    // },
+    // {
+    //   name: "Gadar 2",
+    //   year: "2023",
+    //   rating: 5,
+    //   img: "https://cdn.bollywoodmdb.com/fit-in/movies/largethumb/2022/gadar-2/gadar-2-poster-2.jpg",
+    // },
+    // {
+    //   name: "KGF 2",
+    //   year: "2020",
+    //   rating: 5,
+    //   img: "https://e1.pxfuel.com/desktop-wallpaper/246/961/desktop-wallpaper-kgf-chapter-2-kgf-3.jpg",
+    // },
+    // {
+    //   name: "War",
+    //   year: "2019",
+    //   rating: 5,
+    //   img: "https://wallpapercave.com/wp/wp9737478.jpg",
+    // },
